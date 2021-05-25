@@ -1,0 +1,12 @@
+.carousel-item img{
+    height: 90vh;
+}
+.accordion-item{
+    border: none;
+}
+.accordion-border{
+    border-top: 1px solid hsla(180, 3%, 27%, 0.178);
+}
+.footer{
+    background: #212529;
+}
